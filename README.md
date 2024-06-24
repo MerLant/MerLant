@@ -1,9 +1,9 @@
 
 
 
-### Hi there 👋! I`m Nikita (MerLant)
+### Hi there 👋! I`m Nikita
 
-My Telegram --> <a href="https://t.me/merlant">MerLant</a>
+My Telegram --> <a href="https://t.me/m3rIant">Tap</a>
 
 <h3>Language and Tools:</h3>
 <div class="block">
