@@ -1,6 +1,6 @@
 ### Hi there 👋! I`m Nikita
 
-My Telegram --> <a href="https://t.me/m3rIant">Tap</a>
+My Telegram --> <a href="https://t.me/m3rIant">Click</a>
 
 <h3>Language and Tools:</h3>
 <div class="block">
